@@ -3,5 +3,5 @@ jobs:
     name: Job 1
     steps: []
   Zabcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklm:
-    name: Job 2
-  
+    name: >-
+      Zabcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmewrfrewfwrgfrgrttgertgr
